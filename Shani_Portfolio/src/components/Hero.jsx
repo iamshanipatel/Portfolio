@@ -1,4 +1,4 @@
-import "./hero.css";
+import "./Hero.css";
 function Hero() {
   return (
     <section className="hero" id ="Home">
@@ -16,9 +16,8 @@ function Hero() {
        
 
        <div className="hero-photo ">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9UZ4ou1Q6wYNmXkHtrCmWGJHh87CFWO0gcjRgK3FHYg&s=10" alt="Shani Patel" />
+        <img src="/photo.jpg" alt="Shani Patel" />
         
-
        </div>
      </div>
     </section>
