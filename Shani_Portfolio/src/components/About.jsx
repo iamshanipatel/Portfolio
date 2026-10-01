@@ -31,28 +31,28 @@ function About() {
 
           <li>
             <span className="fact-label">Email</span>
-            <a href="mailto:pandeyhimanshu4111@gmail.com">pandeyhimanshu4111@gmail.com</a>
+            <a href="mailto:shiapatel37780@gmail.com">shiapatel37780@gmail.com</a>
           </li>
 
           <li>
             <span className="fact-label">GitHub</span>
             <a
-              href="https://github.com/Himanshupandey9935"
+              href="https://github.com/iamshanipatel"
               target="_blank"
               rel="noreferrer"
             >
-              github.com/Himanshupandey
+              github.com/iamshanipatel
             </a>
           </li>
 
           <li>
             <span className="fact-label">LinkedIn</span>
             <a
-              href="https://www.linkedin.com/in/himanshu-pandey-0508a4402?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+              href="https://www.linkedin.com/in/shani-patel-2a0b1b1b9/"
               target="_blank"
               rel="noreferrer"
             >
-              linkedin.com/in/Himanshupandey
+              linkedin.com/in/shani-patel-2a0b1b1b9/
             </a>
           </li>
         </ul>
