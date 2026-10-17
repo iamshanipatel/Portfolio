@@ -1,5 +1,5 @@
 import ProjectCard from "./ProjectCard";
-import "./projects.css";
+import "./Projects.css";
 
 function Projects({projects}){
     return(

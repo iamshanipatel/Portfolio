@@ -39,7 +39,7 @@ export const projects = [
     title: "StudyBuddy",
     description:
       "A notes-sharing app for college students. Upload notes by subject, search them, and bookmark the ones you need before exams.",
-    image: "",
+    image: "./chatbot.jpeg",
     techStack: ["React", "Node.js", "Express", "MongoDB"],
     githubUrl: "https://github.com/iamshanipatel/",
     liveUrl: "https://fabulous-bonbon-0989fc.netlify.app/", 
@@ -49,7 +49,7 @@ export const projects = [
     title: "Weather Now",
     description:
       "Type any city and see the current weather and a 5-day forecast, using the OpenWeather API.",
-    image: "",
+    image: "weather.jpeg",
     techStack: ["JavaScript", "HTML", "CSS", "API"],
     githubUrl: "https://github.com/iamshanipatel/weather-app-project",
     liveUrl: "https://weather-app-project-gamma-three.vercel.app/",
@@ -59,7 +59,7 @@ export const projects = [
     title: "Expense Tracker",
     description:
       "Track daily spending by category and see where your money goes each month with simple charts.",
-    image: "",
+    image: "todolist.jpeg",
     techStack: ["React", "CSS", "LocalStorage"],
     githubUrl: "https://github.com/iamshanipatel/To-Do-list",
     liveUrl: "https://stupendous-truffle-2ee58c.netlify.app/",
@@ -69,7 +69,7 @@ export const projects = [
     title: "Expense Tracker",
     description:
       "Track daily spending by category and see where your money goes each month with simple charts.",
-    image: "",
+    image: "Docoment-convard.jpeg",
     techStack: ["React", "CSS", "LocalStorage"],
     githubUrl: "https://github.com/iamshanipatel/PDF_convart",
     liveUrl: "https://marvelous-hummingbird-333e46.netlify.app/",
