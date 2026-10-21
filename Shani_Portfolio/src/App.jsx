@@ -1,9 +1,10 @@
-import {profile, skills, projects} from "./data";
+import {profile, skills, projects, experiences} from "./data";
 import Navber from "./components/Navbar";
 import About from "./components/About";
 import Hero from "./components/Hero";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
+import Journey from "./components/Journey";
 
 function App() {
   return (
@@ -13,6 +14,9 @@ function App() {
       <About skills={skills} />
       <Skills skills={skills} />
       <Projects projects={projects} />
+      {/* <Journey Journey={Journey}/> */}
+      <Journey experiences={experiences}/>
+     
     </>
   );
 }

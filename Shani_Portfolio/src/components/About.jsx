@@ -1,6 +1,7 @@
 import "./About.css";
 
 function About() {
+  
   return (
     <section className="section about" id="about">
       <div className="container about-inner">

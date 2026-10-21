@@ -75,3 +75,42 @@ export const projects = [
     liveUrl: "https://marvelous-hummingbird-333e46.netlify.app/",
   },
 ];
+
+
+
+// type is either "education" or "experience"
+export const experiences = [
+  {
+    _id: "1",
+    type: "education",
+    title: "B.Tech, Computer Science",
+    organization: "SHEAT College of Engineering, Varanasi",
+    duration: "2022 – 2026",
+    description: "Current CGPA 7.8. Part of the college Skill Lab MERN batch.",
+  },
+  {
+    _id: "2",
+    type: "education",
+    title: "Class XII (PCM)",
+    organization: "Kendriya Vidyalaya, Varanasi",
+    duration: "2021 – 2022",
+    description: "Scored 82%.",
+  },
+  {
+    _id: "3",
+    type: "experience",
+    title: "Web Development Intern",
+    organization: "Minicimex Tech, Varanasi",
+    duration: "Jun 2025 – Aug 2025",
+    description:
+      "Built React components for a booking website and connected them to a Node.js API.",
+  },
+  {
+    _id: "4",
+    type: "experience",
+    title: "MERN Skill Lab Trainee",
+    organization: "SHEAT Skill Lab",
+    duration: "2025 – 2026",
+    description: "Built and deployed this portfolio from scratch with the MERN stack.",
+  },
+];
