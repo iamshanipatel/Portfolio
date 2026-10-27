@@ -1,6 +1,6 @@
-import "dotenv/config"
-import express from "express";
-import cors from "cors";
+require("dotenv").config()
+const express = require('express')
+const cors = require('cors')
 const app = express()
 app.use(cors()) 
 app.use(express.json())
@@ -35,6 +35,6 @@ app.delete("/api/skills/:id", (req, res)=>{
 })
 
 const PORT = process.env.PORT || 5000;
-app.console.log(PORT, ()=>{
+app.listen(PORT, ()=>{
     console.log(`Server running on http://localhost:${PORT}`)
 })
